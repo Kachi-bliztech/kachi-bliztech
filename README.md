@@ -13,7 +13,9 @@
  
 - <b>Fake News Detection</b>
   - [Fake News Detection](https://github.com/Kachi-bliztech/FakeNewsPrediction/tree/main)
-  
+
+- <b>Loan Eligibility Prediction</b>
+  - [Loan Eligibility Prediction](https://github.com/Kachi-bliztech/LoanStatusPrediction)
 
 <h2> Certifications</h2>
   
