@@ -28,6 +28,10 @@
 
 - <b>Heart Disease Prediction</b>
   - [Heart Disease Prediction using ML](https://github.com/Kachi-bliztech/HearthDiseasePrediction)
+ 
+
+- <b>Credit Card Fraud Detection </b>
+  - [Credit Card Fraud Detection using ML](https://github.com/Kachi-bliztech/CreditCardFraudDetection-)
 
 <h2> Certifications</h2>
   
