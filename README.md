@@ -16,6 +16,10 @@
 
 - <b>Loan Eligibility Prediction</b>
   - [Loan Eligibility Prediction](https://github.com/Kachi-bliztech/LoanStatusPrediction)
+ 
+- <b>Wine Quality Prediction</b>
+  - [Wine Quality Prediction using ML](https://github.com/Kachi-bliztech/WineQualityPrediction)
+
 
 <h2> Certifications</h2>
   
