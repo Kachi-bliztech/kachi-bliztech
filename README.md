@@ -19,7 +19,9 @@
  
 - <b>Wine Quality Prediction</b>
   - [Wine Quality Prediction using ML](https://github.com/Kachi-bliztech/WineQualityPrediction)
-
+ 
+- <b>Car Price Prediction</b>
+  - [Car Price Prediction using ML](https://github.com/Kachi-bliztech/CarPricePrediction)
 
 <h2> Certifications</h2>
   
