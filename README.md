@@ -8,7 +8,9 @@
 - <b>Underwater Object Classification</b>
   - [Underwater Object Classification](https://github.com/Kachi-bliztech/RockVsMine_Prediction)
   
-
+- <b>House Price Prediction</b>
+  - [House Price Prediction](https://github.com/Kachi-bliztech/HousePricePrediction-/tree/main)
+  
 
 <h2> Certifications</h2>
   
