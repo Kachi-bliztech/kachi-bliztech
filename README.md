@@ -33,6 +33,9 @@
 - <b>Credit Card Fraud Detection </b>
   - [Credit Card Fraud Detection using ML](https://github.com/Kachi-bliztech/CreditCardFraudDetection-)
 
+- <b>Medical Insurance Cost Prediction </b>
+  - [Medical Insurance Cost Prediction using ML](https://github.com/Kachi-bliztech/MedicalInsuranceCostPrediction/blob/main/README.md)
+    
 <h2> Certifications</h2>
   
 - [AWS Certified Solutions Architect](https://www.credly.com/badges/d4a1b2d3-cd38-48ab-817f-f46c6069e6c8)
