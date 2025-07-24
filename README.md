@@ -22,6 +22,10 @@
  
 - <b>Car Price Prediction</b>
   - [Car Price Prediction using ML](https://github.com/Kachi-bliztech/CarPricePrediction)
+ 
+- <b>Gold Price Prediction</b>
+  - [Gold Price Prediction using ML](https://github.com/Kachi-bliztech/GoldPricePrediction/tree/main)
+
 
 <h2> Certifications</h2>
   
