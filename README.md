@@ -10,6 +10,9 @@
   
 - <b>House Price Prediction</b>
   - [House Price Prediction](https://github.com/Kachi-bliztech/HousePricePrediction-/tree/main)
+ 
+- <b>Fake News Detection</b>
+  - [Fake News Detection](https://github.com/Kachi-bliztech/FakeNewsPrediction/tree/main)
   
 
 <h2> Certifications</h2>
