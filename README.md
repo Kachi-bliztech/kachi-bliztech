@@ -26,6 +26,8 @@
 - <b>Gold Price Prediction</b>
   - [Gold Price Prediction using ML](https://github.com/Kachi-bliztech/GoldPricePrediction/tree/main)
 
+- <b>Heart Disease Prediction</b>
+  - [Heart Disease Prediction using ML](https://github.com/Kachi-bliztech/HearthDiseasePrediction)
 
 <h2> Certifications</h2>
   
