@@ -4,6 +4,9 @@
 
 - <b>Diabetes Prediction</b>
   - [Diabetes Prediction using ML](https://github.com/Kachi-bliztech/Machine-Learning-Projects/tree/main)
+
+- <b>Underwater Object Classification</b>
+  - [Underwater Object Classification](https://github.com/Kachi-bliztech/RockVsMine_Prediction)
   
 
 
