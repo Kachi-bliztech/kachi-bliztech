@@ -2,7 +2,8 @@
 
 <h2> Machine Learning Projects:</h2>
 
-- <b>Soner Rock and Mine Prediction</b>
+- <b>Diabetes Prediction</b>
+  - [Diabetes Prediction using ML](https://github.com/Kachi-bliztech/Machine-Learning-Projects/tree/main)
   
 
 
