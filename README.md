@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kachi! <br/><a href="https://www.linkedin.com/in/onyekachi-iloghalu">Product Manager</a>, <a href="https://www.linkedin.com/in/onyekachi-iloghalu">Data Scientist</a>, <a href="https://www.linkedin.com/in/onyekachi-iloghalu">AI Engineer</a></h1>
+<h1>Hi, I'm Kachi! <br/><a href="https://www.linkedin.com/in/onyekachi-iloghalu">Product Manager</a>, <a href="https://www.linkedin.com/in/onyekachi-iloghalu">Data & AI Consultant</a>, <a href="https://www.linkedin.com/in/onyekachi-iloghalu">AI Engineer</a></h1>
 
 <h2> Machine Learning Projects:</h2>
 
