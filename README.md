@@ -9,7 +9,7 @@
   - [Heart Disease Prediction using ML](https://github.com/Kachi-bliztech/HearthDiseasePrediction)
 
 - <b>Parkinson's Disease detection</b>
-  - [Parkinson's Disease Detection using ML](https://github.com/Kachi-bliztech/RockVsMine_Prediction)
+  - [Parkinson's Disease Detection using ML](https://github.com/Kachi-bliztech/ParkinsonDiseaseDetection)
 
 
 - <b>Underwater Object Classification</b>
