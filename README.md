@@ -4,6 +4,10 @@
 
 - <b>Diabetes Prediction</b>
   - [Diabetes Prediction using ML](https://github.com/Kachi-bliztech/Machine-Learning-Projects/tree/main)
+ 
+- <b>Heart Disease Prediction</b>
+  - [Heart Disease Prediction using ML](https://github.com/Kachi-bliztech/HearthDiseasePrediction)
+
 
 - <b>Underwater Object Classification</b>
   - [Underwater Object Classification](https://github.com/Kachi-bliztech/RockVsMine_Prediction)
@@ -26,9 +30,6 @@
 - <b>Gold Price Prediction</b>
   - [Gold Price Prediction using ML](https://github.com/Kachi-bliztech/GoldPricePrediction/tree/main)
 
-- <b>Heart Disease Prediction</b>
-  - [Heart Disease Prediction using ML](https://github.com/Kachi-bliztech/HearthDiseasePrediction)
- 
 
 - <b>Credit Card Fraud Detection </b>
   - [Credit Card Fraud Detection using ML](https://github.com/Kachi-bliztech/CreditCardFraudDetection-)
