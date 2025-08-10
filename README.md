@@ -11,28 +11,13 @@
 - <b>Parkinson's Disease detection</b>
   - [Parkinson's Disease Detection using ML](https://github.com/Kachi-bliztech/ParkinsonDiseaseDetection)
 
-
-- <b>Underwater Object Classification</b>
-  - [Underwater Object Classification](https://github.com/Kachi-bliztech/RockVsMine_Prediction)
   
-- <b>House Price Prediction</b>
-  - [House Price Prediction](https://github.com/Kachi-bliztech/HousePricePrediction-/tree/main)
+- <b>Building Prediction System</b>
+  - [Streamlit Web App - Deployment](https://github.com/Kachi-bliztech/HousePricePrediction-/tree/main)
  
-- <b>Fake News Detection</b>
-  - [Fake News Detection](https://github.com/Kachi-bliztech/FakeNewsPrediction/tree/main)
 
 - <b>Loan Eligibility Prediction</b>
   - [Loan Eligibility Prediction](https://github.com/Kachi-bliztech/LoanStatusPrediction)
- 
-- <b>Wine Quality Prediction</b>
-  - [Wine Quality Prediction using ML](https://github.com/Kachi-bliztech/WineQualityPrediction)
- 
-- <b>Car Price Prediction</b>
-  - [Car Price Prediction using ML](https://github.com/Kachi-bliztech/CarPricePrediction)
- 
-- <b>Gold Price Prediction</b>
-  - [Gold Price Prediction using ML](https://github.com/Kachi-bliztech/GoldPricePrediction/tree/main)
-
 
 - <b>Credit Card Fraud Detection </b>
   - [Credit Card Fraud Detection using ML](https://github.com/Kachi-bliztech/CreditCardFraudDetection-)
