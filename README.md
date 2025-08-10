@@ -13,7 +13,7 @@
 
   
 - <b>Building Prediction System</b>
-  - [Streamlit Web App - Deployment](https://github.com/Kachi-bliztech/HousePricePrediction-/tree/main)
+  - [Streamlit Web App - Deployment](https://github.com/Kachi-bliztech/MultipleDiseasePredictionWebApp)
  
 
 - <b>Loan Eligibility Prediction</b>
