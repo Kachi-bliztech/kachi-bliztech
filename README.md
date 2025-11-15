@@ -4,6 +4,9 @@
 
 - <b>Private ChatPro</b>
   - [Self-hosted ChatGPT](https://github.com/Kachi-bliztech/private-chat-pro.git)
+ 
+- <b>Studypal-assistant(RAG)</b>
+  - [Self-hosted ChatGPT](https://github.com/Kachi-bliztech/studypal-assistant.git)
    
 - <b>Diabetes Prediction</b>
   - [Diabetes Prediction using ML](https://github.com/Kachi-bliztech/Machine-Learning-Projects/tree/main)
