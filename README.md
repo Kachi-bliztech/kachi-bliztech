@@ -2,6 +2,9 @@
 
 <h2> AI Projects:</h2>
 
+- <b>Private ChatPro</b>
+  - [Self-hosted ChatGPT](https://github.com/Kachi-bliztech/Machine-Learning-Projects/tree/main)
+   
 - <b>Diabetes Prediction</b>
   - [Diabetes Prediction using ML](https://github.com/Kachi-bliztech/Machine-Learning-Projects/tree/main)
  
