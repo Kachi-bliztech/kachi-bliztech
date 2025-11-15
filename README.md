@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kachi! <br/><a href="https://www.linkedin.com/in/onyekachi-iloghalu">AI Engineer</a>, <a href="https://www.linkedin.com/in/onyekachi-iloghalu">Product Manager</a></h1>
 
-<h2> Machine Learning Projects:</h2>
+<h2> AI Projects:</h2>
 
 - <b>Diabetes Prediction</b>
   - [Diabetes Prediction using ML](https://github.com/Kachi-bliztech/Machine-Learning-Projects/tree/main)
