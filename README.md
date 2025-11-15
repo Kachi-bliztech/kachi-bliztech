@@ -6,10 +6,10 @@
   - [Self-hosted ChatGPT](https://github.com/Kachi-bliztech/private-chat-pro.git)
  
 - <b>Studypal-assistant(RAG-Powered AI Study Assistant)</b>
-  - [Self-hosted ChatGPT](https://github.com/Kachi-bliztech/studypal-assistant.git)
+  - [RAG-Powered AI Study Assistant](https://github.com/Kachi-bliztech/studypal-assistant.git)
  
 - <b>AstraRAG-Agentic RAG Chatbot</b>
-  - [Self-hosted ChatGPT](https://github.com/Kachi-bliztech/astrarag-agentic-rag-chatbot.git)
+  - [Agentic RAG Chatbot](https://github.com/Kachi-bliztech/astrarag-agentic-rag-chatbot.git)
    
 - <b>Diabetes Prediction</b>
   - [Diabetes Prediction using ML](https://github.com/Kachi-bliztech/Machine-Learning-Projects/tree/main)
